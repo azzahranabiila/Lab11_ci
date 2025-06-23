@@ -699,7 +699,7 @@ http://localhost:8080/post/2
 Selanjutnya, klik Send. Request tersebut akan menampilkan data artikel yang memiliki ID
 nomor 2 di database.
 
-![image](https://github.com/user-attachments/assets/6ee45f3c-3175-4ab3-b058-c757f410a51d)
+![image](https://github.com/user-attachments/assets/16fb2a04-9c02-4fec-9893-a169c88c07ad)
 
 74. Mengubah Data
 Untuk mengubah data, silakan ganti method menjadi PUT. Kemudian, masukkan URL artikel
